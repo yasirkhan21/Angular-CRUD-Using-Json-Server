@@ -3,19 +3,19 @@
     {
       "id": 1,
       "empName": "Yasir Khan",
-      "mobileNo": 6267354793,
+      "mobileNo": 1234567890,
       "address": "Chhindwara"
     },
     {
       "id": 3,
       "empName": "Raviraj Singh Shekhawat",
-      "mobileNo": 9990876543,
+      "mobileNo": 0987456321,
       "address": "Indore "
     },
     {
       "id": 4,
       "empName": "Adil Khan",
-      "mobileNo": 9522117071,
+      "mobileNo": 7654321890,
       "address": "Bhopal"
     },
     {
@@ -27,7 +27,7 @@
     {
       "id": 6,
       "empName": "Abhishek khoya",
-      "mobileNo": 7896543210,
+      "mobileNo": 9807645321,
       "address": "Indore"
     }
   ]
