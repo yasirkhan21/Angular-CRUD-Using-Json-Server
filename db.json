@@ -1,0 +1,34 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "empName": "Yasir Khan",
+      "mobileNo": 6267354793,
+      "address": "Chhindwara"
+    },
+    {
+      "id": 3,
+      "empName": "Raviraj Singh Shekhawat",
+      "mobileNo": 9990876543,
+      "address": "Indore "
+    },
+    {
+      "id": 4,
+      "empName": "Adil Khan",
+      "mobileNo": 9522117071,
+      "address": "Bhopal"
+    },
+    {
+      "id": 5,
+      "empName": "Absar Qureshi",
+      "mobileNo": 1234567890,
+      "address": "Parasia"
+    },
+    {
+      "id": 6,
+      "empName": "Abhishek khoya",
+      "mobileNo": 7896543210,
+      "address": "Indore"
+    }
+  ]
+}
